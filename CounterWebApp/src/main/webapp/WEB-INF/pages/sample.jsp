@@ -1,6 +1,6 @@
 <html>
   <head>
-    <title>"Welcome to DevOps Docker World" </title>
+    <title>"Welcome to DevOps CI/CD Demo" </title>
   </head>
   <body bgcolor=white>
 
@@ -15,7 +15,7 @@
       </tr>
     </table>
 
-    <p>This is the home page for the Java Web application. </p>
+    <p>This is the home page for the Java CounterWeb Appication. </p>
     <p>To prove that they work, you can execute either of the following links:
     <ul>
             <li>To a <a href="hello">servlet</a>.
